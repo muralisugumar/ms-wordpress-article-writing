@@ -1,0 +1,4 @@
+interface:
+  display_name: "MS WordPress Article Writing"
+  short_description: "Simple-English articles and WordPress SEO for MS"
+  default_prompt: "Use $ms-wordpress-article-writing to prepare a researched, simple-English article and WordPress publishing package for muralisugumar.com."
